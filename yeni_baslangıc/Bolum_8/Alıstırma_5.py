@@ -1,0 +1,1 @@
+#diğer konular bitince bu bölüme tekrar dön
